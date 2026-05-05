@@ -1,0 +1,8 @@
+node_modules/
+frontend/.next/
+backend/node_modules/
+client/__pycache__/
+client/token.txt
+.env
+frontend/.env.local
+backend/.env
