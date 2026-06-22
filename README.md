@@ -41,21 +41,21 @@ Interface intuitif dengan dukungan natural language commands
 
 Arsitektur Sistem
 ┌─────────────────────────────────────────────────────┐
-│               AppBlocker System                     │
+│               AppBlocker System                                                                                         │
 ├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Frontend (Web UI)        Backend (Node.js)         │
-│  - React/Next.js          - Express Server          │
-│  - Dashboard              - AI Handler              │
-│  - AI Hub                 - MongoDB Database        │
-│  - Analytics              - Authentication (JWT)    │
-│                           - Blocking Logic          │
-│                                                     │
-│  Client (Desktop)                                   │
-│  - Python GUI App                                   │
-│  - System Integration                               │
-│  - Real-time Blocking                               │
-│                                                     │
+│                                                                                                                                        │
+│  Frontend (Web UI)        Backend (Node.js)                                                                  │
+│  - React/Next.js          - Express Server                                                                         │
+│  - Dashboard              - AI Handler                                                                                 │
+│  - AI Hub                 - MongoDB Database                                                                     │
+│  - Analytics              - Authentication (JWT)                                                                    │
+│                           - Blocking Logic                                                                                    │
+│                                                                                                                                        │
+│  Client (Desktop)                                                                                                            │
+│  - Python GUI App                                                                                                          │
+│  - System Integration                                                                                                      │
+│  - Real-time Blocking                                                                                                      │
+│                                                                                                                                        │
 └─────────────────────────────────────────────────────┘
 
 
